@@ -137,3 +137,12 @@ actuators and PWM signals for automation and control applications.
 <img src="https://komarev.com/ghpvc/?username=Alex-Devs-slw&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
 
 **Thanks for visiting my profile!**
+<br>
+
+<div align="center">
+    <img 
+        src="dududev.27 PM.rer" 
+        width="100%" 
+        alt="Footer"
+    >
+</div>
