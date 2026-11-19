@@ -1,16 +1,132 @@
-<h1 align="center">Hi 👋, I'm Alejandro Reyna</h1>
-<h3 align="center">I'm an engineer who loves to learn all about new technologies and software development</h3>
+\<div align="center">
 
-- 🔭 I’m currently working on [Sedma Detail](https://sedmadetail.netlify.app/)
+# 👋 Hi, I'm Alejandro Reyna
 
-- 🌱 I’m currently learning **Javascript, PayPal web implementation**
+### Engineering Student | Software Developer | Embedded Systems | Automation
 
-- 📫 How to reach me **alreag.ra15@gmail.com**
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=650\&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building)." alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+\<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+\
 
+
+\</div>
+
+---
+
+## 👨‍💻 About Me | Sobre mí
+
+**English**
+
+I'm an Engineering student with a technical background in electromechanics and a strong interest in software development, embedded systems, electronics and industrial automation.
+
+I enjoy building practical solutions by combining programming, hardware and modern technologies. Currently, I'm expanding my knowledge in web development, artificial intelligence and software engineering.
+
+**Español**
+
+Soy estudiante de ingeniería con formación técnica en electromecánica e interés en el desarrollo de software, sistemas embebidos, electrónica y automatización industrial.
+
+Me interesa desarrollar soluciones prácticas mediante la integración de programación, hardware y tecnologías modernas. Actualmente estoy ampliando mis conocimientos en desarrollo web, inteligencia artificial e ingeniería de software.
+
+---
+
+## 🛠️ Tech Stack | Tecnologías
+
+### Programming Languages
+
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python,cpp,js,html,css](https://skillicons.dev/icons?i=python,cpp,js,html,css)" />
+\</p>
+
+### Frameworks & Development
+
+\<p> \<img src="[https://skillicons.dev/icons?i=django,git,github,vscode,arduino](https://skillicons.dev/icons?i=django,git,github,vscode,arduino)" /> \</p>
+
+### Hardware & Embedded Systems
+
+- ESP32
+- Arduino
+- ESP-NOW
+- WiFi Communication
+- PWM Control
+- Sensors and Actuators
+- UART / Serial Communication
+- OLED Displays
+
+---
+
+## 🚀 Featured Projects | Proyectos destacados
+
+### 🌐 Web Development
+
+**Business Websites & Web Applications**
+
+Development of modern websites for automotive detailing businesses, focusing on responsive interfaces, interactive components, animations and user experience.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Django.
+
+### ⚡ Embedded Systems
+
+**ESP32 Wireless Communication**
+
+Development of wireless communication systems between ESP32 microcontrollers using ESP-NOW and WiFi, integrating sensors, OLED displays and remote control.
+
+**Technologies:** C++, ESP32, Arduino Framework.
+
+### 🤖 Automation & Control
+
+**Electronic Control Systems**
+
+Implementation of electronic systems using microcontrollers, sensors, actuators and PWM signals for automation and control applications.
+
+**Technologies:** C++, ESP32, Electronics.
+
+---
+
+## 📊 GitHub Statistics
+
+\<div align="center">
+
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />
+
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+
+\<br>
+
+\<img src="[https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=TU-USUARIO\&theme=tokyonight\&hide_border=true)" />
+
+\</div>
+
+---
+
+## 🎯 Currently Learning | Actualmente aprendiendo
+
+- Full Stack Web Development.
+- Python and Django.
+- Database Integration.
+- Artificial Intelligence & AI Agents.
+- Industrial Automation.
+- Software Architecture and Development Best Practices.
+
+---
+
+## 🎓 Goals | Objetivos
+
+- Build functional and scalable software applications.
+- Develop projects integrating hardware and software.
+- Explore artificial intelligence applications.
+- Improve my Full Stack development skills.
+- Contribute to open-source projects.
+
+---
+
+\<div align="center">
+
+### 💡 "Technology is best when it brings people and ideas together."
+
+\<img src="[https://komarev.com/ghpvc/?username=TU-USUARIO&style=flat-square&color=00BFFF&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=TU-USUARIO\&style=flat-square\&color=00BFFF\&label=PROFILE+VIEWS)" />
+
+**Thanks for visiting my profile!**
+
+\</div>
