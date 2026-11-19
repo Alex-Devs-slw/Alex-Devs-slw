@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building" alt="Typing SVG" />{=html}
 
-<br>{=html}
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Devs-slw)
 
