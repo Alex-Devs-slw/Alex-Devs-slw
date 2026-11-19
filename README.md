@@ -142,7 +142,7 @@ actuators and PWM signals for automation and control applications.
 <div align="center">
     <img 
         src="dududev.27 PM.rer" 
-        width="800"
+        width="35"
         alt="Footer animation"
     >
 </div>
