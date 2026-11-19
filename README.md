@@ -3,9 +3,9 @@
 
 ### Engineering Student \| Software Developer \| Embedded Systems \| Automation
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building" alt="Typing SVG" />`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building" alt="Typing SVG" />`{=html}
 
-`<br>`{=html}
+<br>`{=html}
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Devs-slw)
 :::
@@ -41,22 +41,22 @@ ingeniería de software.
 
 ### Programming Languages
 
-```{=html}
+{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML and CSS" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML and CSS" />`{=html}
+{=html}
 </p>
-```
+
 ### Frameworks & Development Tools
 
-```{=html}
+{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=django,git,github,vscode,arduino" alt="Django, Git, GitHub, Visual Studio Code and Arduino" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,arduino" alt="Django, Git, GitHub, Visual Studio Code and Arduino" />`{=html}
+{=html}
 </p>
-```
+
 ### Hardware & Embedded Systems
 
 -   ESP32
@@ -106,13 +106,13 @@ actuators and PWM signals for automation and control applications.
 ## 📊 GitHub Statistics
 
 ::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Devs-slw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />`{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Devs-slw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />`{=html}
 
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Devs-slw&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />`{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Devs-slw&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />`{=html}
 
-`<br>`{=html}
+<br>`{=html}
 
-`<img src="https://streak-stats.demolab.com?user=Alex-Devs-slw&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
+<img src="https://streak-stats.demolab.com?user=Alex-Devs-slw&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
 :::
 
 ------------------------------------------------------------------------
@@ -141,7 +141,7 @@ actuators and PWM signals for automation and control applications.
 ::: {align="center"}
 ### 💡 "Technology is best when it brings people and ideas together."
 
-`<img src="https://komarev.com/ghpvc/?username=Alex-Devs-slw&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
+<img src="https://komarev.com/ghpvc/?username=Alex-Devs-slw&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
 
 **Thanks for visiting my profile!**
 :::
