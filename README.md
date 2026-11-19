@@ -2,7 +2,7 @@
 
 ### Engineering Student \| Software Developer \| Embedded Systems \| Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building" alt="Typing SVG" />{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+solutions+through+technology;Web+Development+%7C+Electronics+%7C+Automation;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br>
 
