@@ -40,20 +40,17 @@ ingeniería de software.
 
 ### Programming Languages
 
-{=html}
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML and CSS" />{=html}
-{=html}
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML and CSS" />
 </p>
 
 ### Frameworks & Development Tools
 
-{=html}
+
 <p>
 
-<img src="https://skillicons.dev/icons?i=django,git,github,vscode,arduino" alt="Django, Git, GitHub, Visual Studio Code and Arduino" />{=html}
-{=html}
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,arduino" alt="Django, Git, GitHub, Visual Studio Code and Arduino" />
 </p>
 
 ### Hardware & Embedded Systems
@@ -103,13 +100,13 @@ actuators and PWM signals for automation and control applications.
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Devs-slw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Devs-slw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Devs-slw&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />{=html}
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Devs-slw&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
-<br>`{=html}
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Alex-Devs-slw&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />{=html}
+<img src="https://streak-stats.demolab.com?user=Alex-Devs-slw&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 
 ------------------------------------------------------------------------
@@ -137,6 +134,6 @@ actuators and PWM signals for automation and control applications.
 
 ### 💡 "Technology is best when it brings people and ideas together."
 
-<img src="https://komarev.com/ghpvc/?username=Alex-Devs-slw&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />{=html}
+<img src="https://komarev.com/ghpvc/?username=Alex-Devs-slw&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
 
 **Thanks for visiting my profile!**
