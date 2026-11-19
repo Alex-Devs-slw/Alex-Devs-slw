@@ -139,10 +139,10 @@ actuators and PWM signals for automation and control applications.
 **Thanks for visiting my profile!**
 <br>
 
-<div align="center">
+<div align="left">
     <img 
         src="dududev.27 PM.rer" 
-        width="35"
+        width="250"
         alt="Footer animation"
     >
 </div>
